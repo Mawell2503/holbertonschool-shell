@@ -1,2 +1,4 @@
 #!/bin/bash
-chown vincent/guillaume hello
+if [ "$(stat -c %U hello 2>/dev/null)" = "guillaume" ]; then
+	chown vincent hello
+fi
