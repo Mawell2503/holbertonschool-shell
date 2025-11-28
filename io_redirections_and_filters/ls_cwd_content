@@ -1,0 +1,33 @@
+total 124
+drwxr-xr-x. 2 root root 4096 Nov 28 05:47 .
+drwxr-xr-x. 6 root root 4096 Nov 28 05:34 ..
+-rwxr-xr-x. 1 root root   32 Nov 28 05:34 0-hello_world
+-rwxr-xr-x. 1 root root   28 Nov 28 05:34 1-confused_smiley
+-rw-r--r--. 1 root root   48 Nov 28 05:34 10-no_more_js
+-rw-r--r--. 1 root root   47 Nov 28 05:34 11-directories
+-rwxr-xr-x. 1 root root   31 Nov 28 05:34 12-newest_files
+-rwxr-xr-x. 1 root root   27 Nov 28 05:34 13-unique
+-rwxr-xr-x. 1 root root   36 Nov 28 05:34 14-findthatword
+-rwxr-xr-x. 1 root root   38 Nov 28 05:34 15-countthatword
+-rwxr-xr-x. 1 root root   44 Nov 28 05:34 16-whatsnext
+-rwxr-xr-x. 1 root root   38 Nov 28 05:34 17-hidethisword
+-rwxr-xr-x. 1 root root   50 Nov 28 05:34 18-letteronly
+-rwxr-xr-x. 1 root root   25 Nov 28 05:34 19-AZ
+-rwxr-xr-x. 1 root root   29 Nov 28 05:34 2-hellofile
+-rwxr-xr-x. 1 root root   23 Nov 28 05:34 20-hiago
+-rwxr-xr-x. 1 root root   16 Nov 28 05:34 21-reverse
+-rwxr-xr-x. 1 root root   45 Nov 28 05:34 22-users_and_homes
+-rwxr-xr-x. 1 root root   39 Nov 28 05:34 3-twofiles
+-rwxr-xr-x. 1 root root   35 Nov 28 05:34 4-lastlines
+-rwxr-xr-x. 1 root root   35 Nov 28 05:34 5-firstlines
+-rwxr-xr-x. 1 root root   40 Nov 28 05:34 6-third_line
+-rwxr-xr-x. 1 root root   89 Nov 28 05:43 7-file
+-rwxr-xr-x. 1 root root   36 Nov 28 05:34 8-cwd_state
+-rw-r--r--. 1 root root   37 Nov 28 05:34 9-duplicate_last_line
+-rw-r--r--. 1 root root   53 Nov 28 05:34 README.md
+-rw-r--r--. 1 root root   12 Nov 28 05:34 \*\"Best School"\'$\?\*\*\*\*\*:)
+-rw-r--r--. 1 root root   38 Nov 28 05:34 \*\'Best
+-rw-r--r--. 1 root root   12 Nov 28 05:39 \*\\'"Best School"'\\*$\?\*\*\*\*\*:)
+-rw-r--r--. 1 root root   12 Nov 28 05:44 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r--. 1 root root  801 Nov 28 05:34 iacta
+-rw-r--r--. 1 root root    0 Nov 28 05:47 ls_cwd_content
